@@ -1,1 +1,5 @@
-# Emotiworld
+# Emojin
+
+## Install
+
+Download at
